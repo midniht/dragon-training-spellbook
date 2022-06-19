@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @namespace    1655644915
 // @version      0.1
-// @description  try to take over the world!
+// @description  whatever
 // @author       You
 // @match        http://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
