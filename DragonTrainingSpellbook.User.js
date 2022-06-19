@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Test Webhook
 // @namespace    1655644915
-// @version      0.1
+// @version      0.1.1
 // @description  whatever
 // @author       You
 // @match        https://greasyfork.org/*
