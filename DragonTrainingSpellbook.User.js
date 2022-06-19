@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Test Webhook
+// @name         驯龙魔典
 // @namespace    1655644915
 // @version      0.1.1
 // @description  whatever
