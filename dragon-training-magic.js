@@ -6,6 +6,7 @@
 // @description  Help you to raise your dragon well
 // @author       syd
 // @license      2022 up to now, syd All Rights Reserved
+// @match        https://dragcave.net/*
 // @grant        none
 // ==/UserScript==
 
