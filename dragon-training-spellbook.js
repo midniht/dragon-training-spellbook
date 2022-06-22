@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Dragon Training Spellbook
-// @@name:zh     驯龙魔典
+// @@name:zh-CN  驯龙魔典
 // @namespace    3BBBC94E5807338FF2A3A63A253333D049DECC00
-// @version      0.1.1
+// @version      0.1.2
 // @description  Help you to raise your dragon well
 // @author       syd
 // @license      2022 up to now, syd All Rights Reserved
