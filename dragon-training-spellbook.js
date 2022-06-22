@@ -324,7 +324,7 @@ const initScript = () => {
     if (event.target.id == "add-to-wishlist") {
       const expect_keyword = input_node.querySelector("#wishlist-input").value;
       input_node.querySelector("#wishlist-input").value = "";
-      if (!DTS.wishlist.includes(expect_keyword)) {
+      if (expect_keyword !== "" && !DTS.wishlist.includes(expect_keyword)) {
         wishlist_node.innerHTML += `<span class="wishlist-item">${expect_keyword}</span><br>`;
         wishlist_node.querySelector("#wishlist_count").innerHTML = String(
           parseInt(wishlist_node.querySelector("#wishlist_count").innerHTML) + 1
