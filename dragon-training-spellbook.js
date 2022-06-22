@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dragon Training Spellbook
-// @@name:zh-CN  驯龙魔典
+// @name:zh-CN   驯龙魔典
 // @namespace    3BBBC94E5807338FF2A3A63A253333D049DECC00
 // @version      0.1.2
 // @description  Help you to raise your dragon well
@@ -9,7 +9,7 @@
 // @match        https://dragcave.net/*
 // @resource     IMPORTED_CSS https://pastebin.com/raw/yPkhNWFW
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
-// @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js?version=1063317
+// @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js?version=1063341
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
