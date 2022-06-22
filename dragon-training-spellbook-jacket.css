@@ -1,0 +1,131 @@
+/* ==UserStyle==
+@name         Dragon Training Spellbook Jacket
+@@name:zh     驯龙魔典书封
+@namespace    3BBBC94E5807338FF2A3A63A253333D049DECC00
+@version      0.1.0
+@description  CSS Style for Dragon Training Spellbook
+@author       syd
+@license      2022 up to now, syd All Rights Reserved
+==/UserStyle== */
+
+.wishlist-item {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  min-height: 2rem;
+  max-width: 150px;
+  padding: 0 1rem;
+  color: #fff;
+  font-size: 15px;
+  border: 1px solid #5e4dcd;
+  border-radius: 6px 0 0 6px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#add-to-wishlist {
+  min-height: 2rem;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 0 6px 6px 0;
+  background-color: #5e4dcd;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#add-to-wishlist:hover {
+  background-color: #5e5dcd;
+}
+
+.input:focus,
+.input:focus-visible {
+  border-color: #3898ec;
+  outline: none;
+}
+
+.dts-left-card-container {
+  position: fixed;
+  left: 5vw;
+  top: 20vh;
+  border-radius: 0.75rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  z-index: 999;
+  font-family: "Noto Sans SC";
+}
+
+.dts-left-card {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-direction: column;
+  align-items: stretch;
+  align-content: stretch;
+  flex-wrap: wrap;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.dts-left-card-title {
+  font-size: 1.5rem;
+  text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red;
+  text-align: center;
+}
+
+.dts-right-card-container {
+  position: fixed;
+  right: 5vw;
+  bottom: 20vh;
+  width: 12rem;
+  height: 16rem;
+  border-radius: 20px;
+  background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+  opacity: 0.8;
+  transition: all 0.3s;
+  font-family: "Noto Sans SC";
+}
+
+.dts-right-card-container:hover {
+  box-shadow: 0px 0px 30px 1px rgba(0, 255, 117, 0.3);
+}
+
+.dts-right-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 12rem;
+  height: 16rem;
+  border-radius: 20px;
+  background-color: #1a1a1a;
+  transition: all 0.2s;
+}
+
+.dts-right-card:hover {
+  transform: scale(0.98);
+  border-radius: 20px;
+}
+
+.dts-right-card-content {
+  text-align: center;
+}
+
+.cb-egg-title {
+  height: 2.5rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.no-href {
+  pointer-events: none;
+  text-decoration: none;
+}
