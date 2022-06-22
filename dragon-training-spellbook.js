@@ -7,7 +7,7 @@
 // @author       syd
 // @license      2022 up to now, syd All Rights Reserved
 // @match        https://dragcave.net/*
-// @resource     IMPORTED_CSS https://pastebin.com/raw/HXDr43Hk
+// @resource     IMPORTED_CSS https://pastebin.com/raw/yPkhNWFW
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
 // @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js?version=1063317
 // @grant        GM_setValue
@@ -27,9 +27,9 @@ const now = () => {
 };
 
 class DragonTrainingSpellbook extends DragonTrainingMagic {
+  NAME = "驯龙魔典";
   constructor() {
     super();
-    this.NAME = "驯龙魔典";
     this.CFG = {
       username: "",
       wishlist: [],
@@ -159,12 +159,12 @@ const SYS = {
       "/help": "帮助页面",
       "/market": "系统商城（与系统交易）",
       "/abandoned": "弃蛋区（AP）",
-      "/locations/5": "高山（Alpine）",
-      "/locations/1": "海岸（Coast）",
-      "/locations/2": "沙漠（Desert）",
-      "/locations/3": "森林（Forest）",
-      "/locations/4": "丛林（Jungle）",
-      "/locations/6": "火山（Volcano）",
+      "/locations/5": `${DTS.HABITAT_NAME.Alpine}（Alpine）`, // 高山
+      "/locations/1": `${DTS.HABITAT_NAME.Coast}（Coast）`, // 海岸
+      "/locations/2": `${DTS.HABITAT_NAME.Desert}（Desert）`, // 沙漠
+      "/locations/3": `${DTS.HABITAT_NAME.Forest}（Forest）`, // 森林
+      "/locations/4": `${DTS.HABITAT_NAME.Jungle}（Jungle）`, // 丛林
+      "/locations/6": `${DTS.HABITAT_NAME.Volcano}（Volcano）`, // 火山
       "/dragonopedia": "图鉴页面",
     };
     if (Object.hasOwnProperty.call(path_map, path[0].replace(/\/$/g, ""))) {
@@ -359,28 +359,8 @@ const initScript = () => {
       let link = egg_node.querySelector("a");
       let img = egg_node.querySelector("a > img");
       let desc = egg_node.querySelector("span");
-      let dragon = {
-        // TODO 删除换成检索数据库
-        breed: ["Test", ""],
-        egg: [
-          "This crystalline egg almost looks like you could reach into its depths.",
-          "这颗结晶化的蛋似是能让你看透其内侧。",
-        ],
-        wiki_path: ["/wiki/Egg/Identification_guide", ""],
-        rarity: "Normal",
-        habitat: ["Alpine"],
-        bsa: "种族特性技能",
-        elemental: ["元素亲和", "元素亲和"],
-        morphology: "形态",
-        release_at: "更新时间",
-        sprites: {
-          egg: [""],
-          adult: [""],
-        },
-      };
-      // TODO
-      // 根据 desc.innerText 检索龙
-      // 替换未知的龙蛋图片 img.src = link.href.replace("get", "image");
+      let dragon = DTS.getByEggDesc(desc.innerText);
+      // TODO 替换未知的龙蛋图片 img.src = link.href.replace("get", "image");
       // 渲染龙蛋的种群
       let egg_title_node = document.createElement("div");
       egg_title_node.setAttribute("class", "cb-egg-title");
@@ -409,7 +389,9 @@ const initScript = () => {
         egg_title_node.appendChild(egg_breed_zh);
       }
       // 获取龙蛋代码
-      const egg_code = link.href.replace("https://dragcave.net/get/", "");
+      const egg_code = link.href
+        .replace("https://dragcave.net/get/", "")
+        .replace("/", "");
       let egg_code_node = document.createElement("a");
       egg_code_node.href = link.href.replace("get", "view");
       egg_code_node.target = "_blank";
@@ -479,7 +461,9 @@ const initScript = () => {
         egg_node.insertBefore(egg_breed_zh, link);
       }
       // 获取龙蛋代码
-      const egg_code = link.href.replace("https://dragcave.net/abandoned/", "");
+      const egg_code = link.href
+        .replace("https://dragcave.net/abandoned/", "")
+        .replace("/", "");
       let egg_code_node = document.createElement("a");
       egg_code_node.href = link.href.replace("get", "view");
       egg_code_node.target = "_blank";
