@@ -9,7 +9,7 @@
 // @match        https://dragcave.net/*
 // @resource     IMPORTED_CSS https://pastebin.com/raw/Bf63ZehX
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
-// @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js?version=1063341
+// @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
