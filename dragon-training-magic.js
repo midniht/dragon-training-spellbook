@@ -65,7 +65,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1587,
       },
       {
-        breed: ["Aeria Gloris Dragon", ""],
+        breed: ["Aeria Gloris Dragon", "至高荣誉龙"],
         egg: [
           "This crystalline egg almost looks like you could reach into its depths.",
           "这颗结晶化的蛋似是能让你看透其内侧。",
@@ -114,7 +114,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 176,
       },
       {
-        breed: ["Albino Dragon", ""],
+        breed: ["Albino Dragon", "白化龙"],
         egg: [
           "You can see the baby dragon curled up inside this translucent egg.",
           "你能看到龙宝宝蜷缩在这个半透明的蛋里。",
@@ -157,7 +157,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1676,
       },
       {
-        breed: ["Almerald Dragon", ""],
+        breed: ["Almerald Dragon", "祖姆绿龙"],
         egg: [
           "This glossy green egg is rather warm.",
           "这颗光滑的绿蛋挺温暖的。",
@@ -203,7 +203,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1677,
       },
       {
-        breed: ["Anagallis Dragon", ""],
+        breed: ["Anagallis Dragon", "海绿龙"],
         egg: [
           "This delicately patterned egg is sitting in the sunshine.",
           "这颗图案精致的蛋躺在阳光下。",
@@ -226,7 +226,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 4,
       },
       {
-        breed: ["Antarean Dragon", ""],
+        breed: ["Antarean Dragon", "安塔林龙"],
         egg: [
           "This egg is surrounded by mysterious, reflective dust.",
           "这颗蛋被神秘的反光尘埃环绕著。",
@@ -252,7 +252,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 175,
       },
       {
-        breed: ["Aqualis Dragon", ""],
+        breed: ["Aqualis Dragon", "水利司龙"],
         egg: [
           "This drab egg rests far from the water’s edge.",
           "这颗蓝灰色的蛋离水边有一段距离。",
@@ -278,7 +278,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1643,
       },
       {
-        breed: ["Aranoa Dragon", ""],
+        breed: ["Aranoa Dragon", "艾拉诺亚龙"],
         egg: [
           "The vibrant scales on this egg glisten in the sunlight.",
           "这颗蛋的鳞片在阳光下闪闪发光。",
@@ -304,7 +304,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1662,
       },
       {
-        breed: ["Aria Dragon", ""],
+        breed: ["Aria Dragon", "咏叹龙"],
         egg: [
           "This bright egg has a warm shell.",
           "这颗明亮的蛋有著温暖的壳。",
@@ -350,7 +350,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1715,
       },
       {
-        breed: ["Ash Dragon", ""],
+        breed: ["Ash Dragon", "阴灰龙"],
         egg: [
           "This ashen egg is smooth to the touch.",
           "这颗阴灰的蛋触感光滑。",
@@ -471,7 +471,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 136,
       },
       {
-        breed: ["Azure Glacewing Dragon", ""],
+        breed: ["Azure Glacewing Dragon", "苍冰翅龙"],
         egg: [
           "This large egg has a lustrous sheen and appears to be covered in scales.",
           "这是颗散发著光泽且布满麟片的大蛋。",
@@ -497,7 +497,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1595,
       },
       {
-        breed: ["Balloon Dragon", ""],
+        breed: ["Balloon Dragon", "气球龙"],
         egg: [
           "This light egg is floating in the air.",
           "这颗轻飘飘的蛋浮在空中。",
@@ -520,7 +520,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 5,
       },
       {
-        breed: ["Black Dragon", ""],
+        breed: ["Black Dragon", "黑龙"],
         egg: [
           "This egg has a faint green glow around it.",
           "这颗蛋周围有淡淡的绿色光晕。",
@@ -543,7 +543,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 6,
       },
       {
-        breed: ["Black Capped Teimarr Dragon", ""],
+        breed: ["Black Capped Teimarr Dragon", "黑帽泰马尔龙"],
         egg: ["This egg has a black cap.", "这颗蛋有一个黑尖儿。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -563,7 +563,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 110,
       },
       {
-        breed: ["Black Tea Dragon", ""],
+        breed: ["Black Tea Dragon", "红茶龙"],
         egg: [
           "This egg has a faintly exotic scent.",
           "这颗蛋有种淡淡的异国情调的香味儿。",
@@ -586,7 +586,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 7,
       },
       {
-        breed: ["Black Truffle Dragon", ""],
+        breed: ["Black Truffle Dragon", "黑松露龙"],
         egg: [
           "This egg has a pleasant, musky smell.",
           "这蛋带有一股令人愉悦的麝香味。",
@@ -612,7 +612,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 179,
       },
       {
-        breed: ["Blacktip Dragon", ""],
+        breed: ["Blacktip Dragon", "黑鳍龙"],
         egg: [
           "This egg is off-white in color and smells a bit like salt.",
           "这颗蛋是灰白色的，闻起来有些像盐。",
@@ -658,7 +658,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1693,
       },
       {
-        breed: ["Bleeding Moon Dragon", ""],
+        breed: ["Bleeding Moon Dragon", "血月龙"],
         egg: [
           "This egg shines brilliantly in moonlight, and is covered in red spots.",
           "这颗被红斑覆盖的蛋在月光下闪耀。",
@@ -684,7 +684,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 9,
       },
       {
-        breed: ["Blue-Banded Dragon", ""],
+        breed: ["Blue-Banded Dragon", "蓝纹龙"],
         egg: [
           "This egg is covered in thick blue stripes.",
           "这颗蛋上有密集的蓝色条纹。",
@@ -707,7 +707,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 11,
       },
       {
-        breed: ["Blusang Lindwyrm", ""],
+        breed: ["Blusang Lindwyrm", "蓝桑鳞龙"],
         egg: [
           "This egg smells faintly like brine.",
           "这颗蛋闻起来有点儿像海水。",
@@ -730,7 +730,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 13,
       },
       {
-        breed: ["Bolt Dragon", ""],
+        breed: ["Bolt Dragon", "闪电龙"],
         egg: ["This egg has a striking pattern.", "这蛋有著引人注目的花纹。"],
         rarity: "Unknown",
         habitats: ["Alpine", "Forest"],
@@ -750,7 +750,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1588,
       },
       {
-        breed: ["Boreal Dragon", ""],
+        breed: ["Boreal Dragon", "北方极龙"],
         egg: [
           "This egg is covered in pale blue spots.",
           "这颗蛋满布亮蓝色的斑点。",
@@ -776,7 +776,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 180,
       },
       {
-        breed: ["Bright-Breasted Wyvern", ""],
+        breed: ["Bright-Breasted Wyvern", "鲜胸纹翼龙"],
         egg: ["This egg is covered in speckles.", "这颗蛋覆盖在斑点下。"],
         rarity: "Unknown",
         habitats: ["Jungle"],
@@ -796,7 +796,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 14,
       },
       {
-        breed: ["Brimstone Dragon", ""],
+        breed: ["Brimstone Dragon", "硫磺龙"],
         egg: ["This egg smells rather rancid.", "这颗蛋闻起来颇为腐臭。"],
         rarity: "Unknown",
         habitats: ["Desert", "Volcano"],
@@ -819,7 +819,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 15,
       },
       {
-        breed: ["Brute Dragon", ""],
+        breed: ["Brute Dragon", "狂龙"],
         egg: ["This egg is unusually large and heavy.", "这颗蛋又大又重。"],
         rarity: "Unknown",
         habitats: ["Alpine"],
@@ -839,7 +839,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 16,
       },
       {
-        breed: ["Candelabra Dragon", ""],
+        breed: ["Candelabra Dragon", "枝状烛台龙"],
         egg: [
           "This mottled red egg almost glows from within.",
           "这颗斑驳的红蛋似乎自内而外散发著光。",
@@ -865,7 +865,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 174,
       },
       {
-        breed: ["Canopy Dragon", ""],
+        breed: ["Canopy Dragon", "林冠龙"],
         egg: ["This egg is hidden by some leaves.", "这颗蛋隐藏在叶子里。"],
         rarity: "Unknown",
         habitats: ["Jungle"],
@@ -905,7 +905,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1673,
       },
       {
-        breed: ["Carina Dragon", ""],
+        breed: ["Carina Dragon", "船底座龙"],
         egg: [
           "This egg shimmers with dazzling constellations.",
           "这蛋闪著耀眼的星座图案。",
@@ -931,7 +931,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1618,
       },
       {
-        breed: ["Carmine Wyvern", ""],
+        breed: ["Carmine Wyvern", "胭脂红翼龙"],
         egg: [
           "This pink and red egg wobbles occasionally.",
           "这颗粉红相间的蛋时不时会摇晃。",
@@ -954,7 +954,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 18,
       },
       {
-        breed: ["Cassare Dragon", ""],
+        breed: ["Cassare Dragon", "撤魔龙"],
         egg: [
           "This egg makes you feel a bit uneasy.",
           "这颗蛋让你感到有些不安。",
@@ -977,7 +977,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 141,
       },
       {
-        breed: ["Celestial Dragon", ""],
+        breed: ["Celestial Dragon", "天龙"],
         egg: [
           "This translucent egg shines like starlight.",
           "这颗通透的蛋散发出如星辰的光芒。",
@@ -1020,7 +1020,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1678,
       },
       {
-        breed: ["Coastal Waverunner", ""],
+        breed: ["Coastal Waverunner", "海岸浪奔龙"],
         egg: ["This egg reminds you of the sea.", "这颗蛋令你想起海洋。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -1040,7 +1040,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 28,
       },
       {
-        breed: ["Copper Dragon", ""],
+        breed: ["Copper Dragon", "铜龙"],
         egg: [
           "This egg gleams with a reddish shine.",
           "这颗蛋闪耀著淡红的光芒。",
@@ -1068,7 +1068,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 29,
       },
       {
-        breed: ["Crystalline Dragon", ""],
+        breed: ["Crystalline Dragon", "结晶龙"],
         egg: [
           "This icy egg sparkles with frost.",
           "这颗结冰的蛋因霜而闪闪发光。",
@@ -1094,9 +1094,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 1660,
       },
       {
-        breed: ["Dark Green Dragon", ""],
+        breed: ["Dark Green Dragon", "深绿龙"],
         egg: [
-          "This egg is sitting in a patch of grass and small flowers even though there's no sun in the cave.",
+          "This egg is sitting in a patch of grass and small flowers even though there’s no sun in the cave.",
           "这颗蛋位于一片草与小花中，尽管洞穴里没有阳光。",
         ],
         rarity: "Unknown",
@@ -1117,7 +1117,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 30,
       },
       {
-        breed: ["Dark Lumina Dragon", ""],
+        breed: ["Dark Lumina Dragon", "黑暗绚光龙"],
         egg: [
           "This egg shines coldly in the moonlight.",
           "这颗蛋在月光下冷冷地发著光。",
@@ -1143,7 +1143,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1601,
       },
       {
-        breed: ["Daydream Dragon", ""],
+        breed: ["Daydream Dragon", "空想龙"],
         egg: ["This egg is sitting on a cloud.", "这颗蛋坐在云彩上。"],
         rarity: "Unknown",
         habitats: ["Coast", "Forest", "Jungle"],
@@ -1163,7 +1163,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 31,
       },
       {
-        breed: ["Shallow Water Dragon", ""],
+        breed: ["Shallow Water Dragon", "浅水龙"],
         egg: [
           "This egg appears to be covered in scales.",
           "这颗蛋似乎覆着鳞。",
@@ -1186,7 +1186,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 46,
       },
       {
-        breed: ["Diamondwing Dragon", ""],
+        breed: ["Diamondwing Dragon", "钻翼龙"],
         egg: ["This egg shines like a diamond.", "这蛋如钻石般闪亮。"],
         rarity: "Unknown",
         habitats: ["Alpine", "Volcano"],
@@ -1209,7 +1209,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 173,
       },
       {
-        breed: ["Dorsal Dragon", ""],
+        breed: ["Dorsal Dragon", "脊背龙"],
         egg: [
           "This egg has multiple bands of color on it.",
           "这颗蛋上有多重颜色排列。",
@@ -1275,7 +1275,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1671,
       },
       {
-        breed: ["Ember Dragon", ""],
+        breed: ["Ember Dragon", "馀焰龙"],
         egg: ["This egg is really hot.", "这颗蛋真的很烫。"],
         rarity: "Unknown",
         habitats: ["Volcano"],
@@ -1366,7 +1366,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 38,
       },
       {
-        breed: ["Fell Dragon", ""],
+        breed: ["Fell Dragon", "猛龙"],
         egg: [
           "This mottled egg looks positively ancient.",
           "这颗斑驳的蛋看起来相当古老。",
@@ -1389,7 +1389,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1596,
       },
       {
-        breed: ["Fever Wyvern", ""],
+        breed: ["Fever Wyvern", "热病翼龙"],
         egg: [
           "This egg is patterned with an orange flare.",
           "这颗蛋上有橘色的火焰纹样。",
@@ -1412,7 +1412,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 39,
       },
       {
-        breed: ["Fire Gem Dragon", ""],
+        breed: ["Fire Gem Dragon", "火晶龙"],
         egg: [
           "This rough egg has shimmering veins of crystal running across its surface.",
           "这粗糙蛋的表面爬满发著光的水晶脉。",
@@ -1435,8 +1435,8 @@ class DragonTrainingMagic {
         encyclopedia_id: 1606,
       },
       {
-        breed: ["Pink Dragon", ""],
-        egg: ["It's bright. And pink.", "它是明亮的。而且是粉色的。"],
+        breed: ["Pink Dragon", "粉龙"],
+        egg: ["It’s bright. And pink.", "它是明亮的。而且是粉色的。"],
         rarity: "Unknown",
         habitats: ["Coast", "Jungle", "All habitats"],
         bsa: "Influence",
@@ -1455,7 +1455,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 79,
       },
       {
-        breed: ["Floret Wyvern (Iris)", ""],
+        breed: ["Floret Wyvern (Iris)", "小花双足翼龙"],
         egg: [
           "This shiny egg smells faintly like flowers.",
           "这颗明亮的蛋带有些许花香。",
@@ -1504,7 +1504,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Freckled Dragon", ""],
+        breed: ["Freckled Dragon", "雀斑龙"],
         egg: [
           "This egg is yellow with orange speckling.",
           "这是颗带有橘斑的黄蛋。",
@@ -1527,7 +1527,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1620,
       },
       {
-        breed: ["Skywing Dragon", ""],
+        breed: ["Skywing Dragon", "赭黄德雷克"],
         egg: ["This egg has strange markings on it.", "这颗蛋上有奇怪的花纹。"],
         rarity: "Unknown",
         habitats: ["Jungle", "Jungle", "Forest", "Coast"],
@@ -1547,7 +1547,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 97,
       },
       {
-        breed: ["Frostbite Dragon", ""],
+        breed: ["Frostbite Dragon", "霜噬龙"],
         egg: [
           "Frost is creeping over this cold egg.",
           "这颗寒冷的蛋上爬满冰霜。",
@@ -1573,7 +1573,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 140,
       },
       {
-        breed: ["Galvanic Wyvern", ""],
+        breed: ["Galvanic Wyvern", "双足流导翼龙"],
         egg: [
           "Powerful energy emanates from this egg.",
           "强烈的能量自这颗蛋发散而出。",
@@ -1599,7 +1599,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1654,
       },
       {
-        breed: ["Gemshard Dragon", ""],
+        breed: ["Gemshard Dragon", "碎宝石龙"],
         egg: [
           "This egg is encrusted with colorful gemstones.",
           "这颗蛋镶有色彩缤纷的宝石。",
@@ -1622,7 +1622,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 972,
       },
       {
-        breed: ["Stone Dragon", ""],
+        breed: ["Stone Dragon", "石龙"],
         egg: [
           "This egg is heavy and rough, as if it were made out of rock.",
           "这颗蛋重且粗糙，仿佛由岩石构成。",
@@ -1645,7 +1645,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 101,
       },
       {
-        breed: ["Tinsel Dragon", ""],
+        breed: ["Tinsel Dragon", "饰龙"],
         egg: [
           "This egg is very reflective, almost metallic looking",
           "这颗蛋有著近似金属的高反光外壳。",
@@ -1672,7 +1672,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 80,
       },
       {
-        breed: ["Gold-horned Tangar", ""],
+        breed: ["Gold-horned Tangar", "金角坦加尔龙"],
         egg: [
           "This egg has bright orange and green markings.",
           "这颗蛋有明亮橙色与绿色花纹。",
@@ -1718,7 +1718,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 51,
       },
       {
-        breed: ["Green Dragon", ""],
+        breed: ["Green Dragon", "绿龙"],
         egg: [
           "This egg is sitting in a pile of small pebbles.",
           "这颗蛋位于一些小卵石之间。",
@@ -1741,7 +1741,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 48,
       },
       {
-        breed: ["Guardian Dragon", ""],
+        breed: ["Guardian Dragon", "护卫龙"],
         egg: [
           "This egg is sitting in front of the others.",
           "这颗蛋立于其他蛋前方。",
@@ -1764,7 +1764,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 50,
       },
       {
-        breed: ["Guardian of Nature", "自然守护者"],
+        breed: ["Guardian of Nature", "自然守护龙"],
         egg: ["This egg glows mysteriously.", "这颗蛋发出神秘的光。"],
         rarity: "Unknown",
         habitats: ["Unknown (Must be Summoned)"],
@@ -1787,7 +1787,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 64,
       },
       {
-        breed: ["Harvest Dragon", ""],
+        breed: ["Harvest Dragon", "收获龙"],
         egg: [
           "This heavy egg feels slightly warm.",
           "这个沉重的蛋有微暖的感觉。",
@@ -1836,7 +1836,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 58,
       },
       {
-        breed: ["Hellhorse Dragon", ""],
+        breed: ["Hellhorse Dragon", "狱马龙"],
         egg: [
           "This hot egg shakes violently when you touch it.",
           "这颗灼热的蛋在你触碰它时暴烈地摇晃。",
@@ -1920,7 +1920,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1702,
       },
       {
-        breed: ["Ice Dragon", ""],
+        breed: ["Ice Dragon", "冰龙"],
         egg: ["This egg has icicles forming on it.", "这颗蛋上形成了冰柱。"],
         rarity: "Unknown",
         habitats: ["Alpine"],
@@ -1940,7 +1940,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 61,
       },
       {
-        breed: ["Imperial Fleshcrowne Dragon", ""],
+        breed: ["Imperial Fleshcrowne Dragon", "帝王肉冠龙"],
         egg: ["This egg is hidden in the trees.", "这颗蛋隐藏于树丛中。"],
         rarity: "Unknown",
         habitats: ["All habitats (Rotating)"],
@@ -1960,7 +1960,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 41,
       },
       {
-        breed: ["Khusa Dragon", ""],
+        breed: ["Khusa Dragon", "酷沙龙"],
         egg: ["This egg is smooth and shiny.", "这颗蛋光滑且闪闪发亮。"],
         rarity: "Unknown",
         habitats: ["Alpine", "Desert"],
@@ -1980,7 +1980,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1621,
       },
       {
-        breed: ["Kingcrowne Dragon", ""],
+        breed: ["Kingcrowne Dragon", "王冠龙"],
         egg: [
           "This shiny egg gives off an almost magical aura.",
           "这闪闪发光的蛋散发出近似魔法的光圈。",
@@ -2026,7 +2026,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1680,
       },
       {
-        breed: ["Lacula Dragon", ""],
+        breed: ["Lacula Dragon", "拉库拉龙"],
         egg: [
           "This green and silver egg lurks in the shadows, tempting you to steal it.",
           "这颗银绿色蛋潜伏在暗处，诱使你去偷走它。",
@@ -2052,7 +2052,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1627,
       },
       {
-        breed: ["Leodon Dragon", ""],
+        breed: ["Leodon Dragon", "烈傲龙"],
         egg: [
           "This red and gold egg sits before the others, almost daring you to grab it.",
           "这颗红金色的蛋坐在最前方，鼓励你大胆夺走他。",
@@ -2075,7 +2075,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1628,
       },
       {
-        breed: ["Lihnseyre Dragon", ""],
+        breed: ["Lihnseyre Dragon", "宁视乐龙"],
         egg: [
           "This glowing egg seems to tug at your very core.",
           "这颗发著光的蛋似是在拉扯你的内在。",
@@ -2121,7 +2121,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1714,
       },
       {
-        breed: ["Lumina Dragon", ""],
+        breed: ["Lumina Dragon", "绚光龙"],
         egg: [
           "This egg shines brightly in the sunlight.",
           "这颗蛋在阳光下明亮地闪耀。",
@@ -2144,7 +2144,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 65,
       },
       {
-        breed: ["Luminox Dragon", ""],
+        breed: ["Luminox Dragon", "夜明龙"],
         egg: [
           "The markings on this egg glow brightly in the shadows.",
           "这颗蛋上的斑点在阴影中闪闪发光。",
@@ -2167,7 +2167,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1647,
       },
       {
-        breed: ["Lunar Herald Dragon", ""],
+        breed: ["Lunar Herald Dragon", "月亮使者龙"],
         egg: [
           "This metallic egg shows faint iridescence in moonlight.",
           "这颗金属光泽的蛋在月光下发出微弱的虹光。",
@@ -2190,7 +2190,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1427,
       },
       {
-        breed: ["Magi Dragon", ""],
+        breed: ["Magi Dragon", "贤龙"],
         egg: [
           "This egg has an orange aura radiating from it.",
           "这颗蛋放射出橙色魔力的光环。",
@@ -2213,7 +2213,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 66,
       },
       {
-        breed: ["Magma Dragon", ""],
+        breed: ["Magma Dragon", "岩浆龙"],
         egg: ["This egg is almost too hot to touch.", "这颗蛋热到难以触碰。"],
         rarity: "Unknown",
         habitats: ["Volcano"],
@@ -2233,7 +2233,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 67,
       },
       {
-        breed: ["Melismor Dragon", ""],
+        breed: ["Melismor Dragon", "梅力斯莫龙"],
         egg: [
           "This heavy egg has an earthy scent, like freshly-tilled soil.",
           "这颗重蛋有股土味，像是新翻过的土壤。",
@@ -2259,7 +2259,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1629,
       },
       {
-        breed: ["Mint Dragon", ""],
+        breed: ["Mint Dragon", "薄荷龙"],
         egg: [
           "This egg is hidden behind the others, as if it is shy.",
           "这颗蛋藏在其他蛋后面，似乎很害羞。",
@@ -2322,7 +2322,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1667,
       },
       {
-        breed: ["Monarch Dragon", ""],
+        breed: ["Monarch Dragon", "帝王龙"],
         egg: ["This egg is buried in leaf litter.", "这颗蛋被埋在落叶堆里。"],
         rarity: "Unknown",
         habitats: ["Jungle", "Forest", "Desert"],
@@ -2342,7 +2342,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 169,
       },
       {
-        breed: ["Sunstone Dragon", ""],
+        breed: ["Sunstone Dragon", "太阳石龙"],
         egg: [
           "This egg resembles a glowing stone.",
           "这颗蛋像一颗闪闪发光的石头。",
@@ -2365,7 +2365,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 107,
       },
       {
-        breed: ["Nebula Dragon", ""],
+        breed: ["Nebula Dragon", "星云龙"],
         egg: [
           "This egg glows with a brilliant radiance.",
           "这颗蛋散发出灿烂的光辉。",
@@ -2388,7 +2388,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 70,
       },
       {
-        breed: ["Neglected Dragon", ""],
+        breed: ["Neglected Dragon", "弃龙"],
         egg: [
           "This egg is very sickly looking, like it has a disease.",
           "这颗蛋看起来非常虚弱，似乎已经病变了。",
@@ -2411,7 +2411,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 95,
       },
       {
-        breed: ["Neotropical Dragon", ""],
+        breed: ["Neotropical Dragon", "新热带龙"],
         egg: [
           "This egg has strange yellow stripes.",
           "这颗蛋有奇怪的黄色条纹。",
@@ -2434,7 +2434,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 71,
       },
       {
-        breed: ["Nhiostrife Wyvern", ""],
+        breed: ["Nhiostrife Wyvern", "霓纹翼龙"],
         egg: [
           "This dull purple egg has two bright stripes on it.",
           "这颗暗紫色的蛋上有两条明亮的纹路。",
@@ -2477,7 +2477,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1670,
       },
       {
-        breed: ["Nocturne Dragon", ""],
+        breed: ["Nocturne Dragon", "夜曲龙"],
         egg: [
           "This egg appears to be made of limestone.",
           "这颗蛋似乎由石灰石构成。",
@@ -2500,7 +2500,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 72,
       },
       {
-        breed: ["Olive Dragon", ""],
+        breed: ["Olive Dragon", "橄榄龙"],
         egg: [
           "This egg smells musty, like rotting leaves.",
           "这颗蛋闻起来发霉了，像腐烂的树叶。",
@@ -2543,7 +2543,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1701,
       },
       {
-        breed: ["Pillow Dragon", ""],
+        breed: ["Pillow Dragon", "软枕龙"],
         egg: ["This egg has a velvety texture.", "这颗蛋有天鹅绒般的质地。"],
         rarity: "Unknown",
         habitats: ["Alpine"],
@@ -2581,7 +2581,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Plated Colossus Dragon", ""],
+        breed: ["Plated Colossus Dragon", "装甲巨龙"],
         egg: [
           "This massive egg is covered with thick plates.",
           "这颗巨大的蛋被装甲包覆。",
@@ -2604,9 +2604,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 974,
       },
       {
-        breed: ["Purple Dragon", ""],
+        breed: ["Purple Dragon", "紫龙"],
         egg: [
-          "Wow, purple isn't a color of egg you expected to see.",
+          "Wow, purple isn’t a color of egg you expected to see.",
           "哇，紫色不是你想象中会在蛋上看到的颜色。",
         ],
         rarity: "Unknown",
@@ -2627,7 +2627,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 82,
       },
       {
-        breed: ["Pyralspite Dragon", ""],
+        breed: ["Pyralspite Dragon", "铝榴石龙"],
         egg: [
           "This egg feels like polished stone.",
           "这颗蛋就像是剖光过的宝石。",
@@ -2674,7 +2674,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1697,
       },
       {
-        breed: ["Pyrovar Dragon", ""],
+        breed: ["Pyrovar Dragon", "火沸龙"],
         egg: [
           "This glassy egg is too hot to hold with your bare hands.",
           "这颗玻璃蛋烫到不能直接用手拿著。",
@@ -2720,7 +2720,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1718,
       },
       {
-        breed: ["Razorcrest Wyvern", "剃刀冠长龙"],
+        breed: ["Razorcrest Wyvern", "剃刀羽冠翼龙"],
         egg: [
           "This blue and bronze egg piques your curiosity.",
           "这颗蓝铜色蛋激起你的好奇心。",
@@ -2746,7 +2746,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1630,
       },
       {
-        breed: ["Red Dragon", ""],
+        breed: ["Red Dragon", "红龙"],
         egg: ["This egg is rather warm.", "这颗蛋相当温暖。"],
         rarity: "Unknown",
         habitats: ["Desert", "Volcano"],
@@ -2766,7 +2766,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 89,
       },
       {
-        breed: ["Ridgewing Dragon", ""],
+        breed: ["Ridgewing Dragon", "脊翼龙"],
         egg: [
           "A cool mountain breeze blows around this egg.",
           "清凉的山风在这颗蛋四周吹拂。",
@@ -2812,7 +2812,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1649,
       },
       {
-        breed: ["Risensong Dragon", ""],
+        breed: ["Risensong Dragon", "旭歌龙"],
         egg: [
           "This bright egg shines in the morning sunlight.",
           "这颗亮眼的蛋在朝曦中闪耀著光芒。",
@@ -2838,7 +2838,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1610,
       },
       {
-        breed: ["Royal Blue Dragon", ""],
+        breed: ["Royal Blue Dragon", "皇家蓝龙"],
         egg: ["This egg shines in the moonlight.", "这颗蛋在月色下闪耀。"],
         rarity: "Unknown",
         habitats: ["Alpine"],
@@ -2861,7 +2861,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 91,
       },
       {
-        breed: ["Royal Crimson Dragon", ""],
+        breed: ["Royal Crimson Dragon", "皇家绯红龙"],
         egg: [
           "This large egg is a dark crimson color.",
           "这颗巨大的蛋有黯沉的绯红色。",
@@ -2904,7 +2904,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1704,
       },
       {
-        breed: ["Sandwaste Dragon", ""],
+        breed: ["Sandwaste Dragon", "沙荒龙"],
         egg: ["This egg was buried in a sand dune.", "这颗蛋被埋在沙堆下。"],
         rarity: "Unknown",
         habitats: ["Desert"],
@@ -2928,7 +2928,7 @@ class DragonTrainingMagic {
       },
       {
         breed: ["Sapo Dragon", ""],
-        egg: ["This egg's shell is slippery and clean.", ""],
+        egg: ["This egg’s shell is slippery and clean.", ""],
         rarity: "Unknown",
         habitats: ["Forest", "Jungle"],
         bsa: "",
@@ -2947,7 +2947,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1682,
       },
       {
-        breed: ["Sapphire Dragon", ""],
+        breed: ["Sapphire Dragon", "蓝宝石龙"],
         egg: [
           "This egg looks like a beautiful blue stone.",
           "这颗蛋看起来像是颗漂亮的蓝石头。",
@@ -2994,7 +2994,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1696,
       },
       {
-        breed: ["Scimitar-wing Wyvern", ""],
+        breed: ["Scimitar-wing Wyvern", "弯刀翼龙"],
         egg: ["This egg seems quite harmless.", "这颗蛋看起来很无害。"],
         rarity: "Unknown",
         habitats: ["Desert", "Volcano"],
@@ -3014,7 +3014,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1613,
       },
       {
-        breed: ["Script Dragon", ""],
+        breed: ["Script Dragon", "符纹龙"],
         egg: [
           "This egg is covered in mysterious patterns.",
           "这颗蛋布满了神秘的符文。",
@@ -3037,7 +3037,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1616,
       },
       {
-        breed: ["Seasonal Dragon (Winter)", ""],
+        breed: ["Seasonal Dragon (Winter)", "季龙"],
         egg: [
           "The markings on this egg match the weather outside.",
           "这颗蛋上的花纹与外面的季节相对应。",
@@ -3134,7 +3134,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 94,
       },
       {
-        breed: ["Setsong Dragon", ""],
+        breed: ["Setsong Dragon", "暮歌龙"],
         egg: [
           "This dark egg shines in the evening sunlight.",
           "这颗暗沉的蛋在暮色中闪耀著光芒。",
@@ -3213,7 +3213,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1699,
       },
       {
-        breed: ["Sophrosyne Dragon", ""],
+        breed: ["Sophrosyne Dragon", "安魂龙"],
         egg: [
           "This egg gives off a beautiful glow.",
           "这颗蛋散发出美丽的光芒。",
@@ -3236,7 +3236,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 98,
       },
       {
-        breed: ["Sinii Krai Dragon", ""],
+        breed: ["Sinii Krai Dragon", "青尼廓蓝龙"],
         egg: [
           "This striped egg has a warm glow.",
           "这颗条纹蛋散发著温和光芒。",
@@ -3259,7 +3259,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 153,
       },
       {
-        breed: ["Siyat Dragon", ""],
+        breed: ["Siyat Dragon", "夏特龙"],
         egg: [
           "This egg seems to be glowing in spots.",
           "这颗蛋上的斑点看起来在发光。",
@@ -3302,7 +3302,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1669,
       },
       {
-        breed: ["Skysilk Dragon", ""],
+        breed: ["Skysilk Dragon", "天丝龙"],
         egg: [
           "This light egg has very vibrant colors.",
           "这颗轻巧的蛋色彩斑斓。",
@@ -3361,7 +3361,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Speckle-Throated Dragon", ""],
+        breed: ["Speckle-Throated Dragon", "斑喉龙"],
         egg: [
           "This egg has a rough—yet shiny—shell.",
           "这颗蛋有个粗糙——然而闪亮的壳。",
@@ -3384,7 +3384,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 99,
       },
       {
-        breed: ["Spinel Wyvern", ""],
+        breed: ["Spinel Wyvern", "尖晶石翼龙"],
         egg: [
           "This glassy egg has a single stripe on it.",
           "这颗玻璃般的蛋上有一道条纹。",
@@ -3407,7 +3407,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1617,
       },
       {
-        breed: ["Spirit Ward Dragon", ""],
+        breed: ["Spirit Ward Dragon", "守灵龙"],
         egg: ["This egg glows from within.", "这颗蛋自内而外散发著光芒。"],
         rarity: "Unknown",
         habitats: ["Forest", "Alpine"],
@@ -3427,7 +3427,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 976,
       },
       {
-        breed: ["Striped Dragon", ""],
+        breed: ["Striped Dragon", "条纹龙"],
         egg: [
           "This egg has brightly colored markings on it.",
           "这颗蛋上有色泽明亮的花纹。",
@@ -3450,7 +3450,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 102,
       },
       {
-        breed: ["Spotted Greenwing", ""],
+        breed: ["Spotted Greenwing", "斑点绿翼龙"],
         egg: [
           "This egg is covered in bright spots.",
           "这颗蛋覆盖着明亮的斑点。",
@@ -3494,7 +3494,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Storm Dragon", ""],
+        breed: ["Storm Dragon", "风暴龙"],
         egg: ["This egg is surrounded by fog.", "这颗蛋被雾笼罩。"],
         rarity: "Unknown",
         habitats: ["All habitats"],
@@ -3514,7 +3514,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 47,
       },
       {
-        breed: ["Storm-Rider Dragon", ""],
+        breed: ["Storm-Rider Dragon", "风暴驾驭龙"],
         egg: [
           "You can feel the static electricity that surrounds this egg.",
           "你可以感受到静电环绕著这颗蛋。",
@@ -3540,7 +3540,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1589,
       },
       {
-        breed: ["Stratos Dragon", ""],
+        breed: ["Stratos Dragon", "斯特拉托斯龙"],
         egg: [
           "This egg is very large, but light for its size.",
           "这蛋虽大，却没那么重。",
@@ -3584,7 +3584,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Striped River Dragon", ""],
+        breed: ["Striped River Dragon", "条纹河龙"],
         egg: [
           "A small puddle of condensation has collected under this egg.",
           "小小的水滩凝聚在这颗蛋下。",
@@ -3607,7 +3607,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 971,
       },
       {
-        breed: ["Sunset Dragon", ""],
+        breed: ["Sunset Dragon", "落日龙"],
         egg: [
           "This egg is glowing as brightly as the sun.",
           "这颗蛋闪耀得像太阳。",
@@ -3648,7 +3648,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Sunsong Amphiptere", ""],
+        breed: ["Sunsong Amphiptere", "日歌翼蛇"],
         egg: [
           "This egg changes colors in the sunlight.",
           "这颗蛋在阳光下变幻着颜色。",
@@ -3689,7 +3689,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Swallowtail Dragon", ""],
+        breed: ["Swallowtail Dragon", "燕尾龙"],
         egg: ["This egg has a very thin shell.", "这颗蛋的壳非常薄。"],
         rarity: "Unknown",
         habitats: ["Forest"],
@@ -3709,7 +3709,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 108,
       },
       {
-        breed: ["Tercorn Dragon", ""],
+        breed: ["Tercorn Dragon", "三角龙"],
         egg: [
           "Water glistens on this egg’s shimmering shell.",
           "水珠在这颗蛋晶莹璀璨的壳上闪闪发光。",
@@ -3732,7 +3732,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1651,
       },
       {
-        breed: ["Terrae Dragon", ""],
+        breed: ["Terrae Dragon", "土壤龙"],
         egg: ["This egg is a lush green hue.", "这颗蛋有绿意盎然的色调。"],
         rarity: "Unknown",
         habitats: ["Forest"],
@@ -3752,7 +3752,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 111,
       },
       {
-        breed: ["Tetra Dragon", ""],
+        breed: ["Tetra Dragon", "灯鱼龙"],
         egg: ["This egg has faint markings.", "这颗蛋有著发出微光的花纹。"],
         rarity: "Unknown",
         habitats: ["Coast", "Jungle"],
@@ -3772,7 +3772,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1605,
       },
       {
-        breed: ["Thunder Dragon", ""],
+        breed: ["Thunder Dragon", "雷龙"],
         egg: [
           "Whenever you go near this egg, your hair stands on end.",
           "当你靠近这颗蛋时你的头发根根竖立。",
@@ -3859,7 +3859,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Tri-Horn Wyvern", ""],
+        breed: ["Tri-Horn Wyvern", "三角翼龙"],
         egg: [
           "This brown egg is covered in intricate designs.",
           "这颗棕色的蛋覆盖在错综复杂的纹样下。",
@@ -3882,7 +3882,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 114,
       },
       {
-        breed: ["Tsunami Wyvern", ""],
+        breed: ["Tsunami Wyvern", "海啸翼龙"],
         egg: [
           "This egg is rocking back and forth in a puddle, creating small waves.",
           "这颗蛋在水坑里摇摇晃晃，引起了小小的波澜。",
@@ -3905,7 +3905,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 115,
       },
       {
-        breed: ["Turpentine Dragon", ""],
+        breed: ["Turpentine Dragon", "松节油龙"],
         egg: [
           "This egg smells strongly of turpentine.",
           "这颗蛋闻起来有浓烈的松节油气味。",
@@ -3928,7 +3928,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 116,
       },
       {
-        breed: ["Two-Finned Bluna", ""],
+        breed: ["Two-Finned Bluna", "双鳍布鲁纳"],
         egg: ["This egg has colored speckles on it.", "这颗蛋有彩色的斑纹。"],
         rarity: "Unknown",
         habitats: ["Unknown (Hybrid)"],
@@ -3948,7 +3948,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 12,
       },
       {
-        breed: ["Ultraviolet Dragon", ""],
+        breed: ["Ultraviolet Dragon", "紫外光龙"],
         egg: [
           "This egg is very warm, as if it has been sitting out in strong sunlight.",
           "这颗蛋非常温暖，仿佛一直位于强烈的阳光下。",
@@ -3974,7 +3974,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 118,
       },
       {
-        breed: ["Undine Dragon", ""],
+        breed: ["Undine Dragon", "温蒂妮龙"],
         egg: [
           "There is a thin layer of moisture coating this egg.",
           "这颗蛋被一层薄薄的水膜包裹。",
@@ -3997,7 +3997,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 119,
       },
       {
-        breed: ["Vampire Dragon", ""],
+        breed: ["Vampire Dragon", "吸血龙"],
         egg: [
           "This egg is stone cold and smells rotten.",
           "这颗蛋冰冷而且有腐臭味。",
@@ -4020,7 +4020,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 126,
       },
       {
-        breed: ["Venturis Dragon", ""],
+        breed: ["Venturis Dragon", "文丘里斯龙"],
         egg: [
           "An aura of serenity surrounds this iridescent egg.",
           "宁静的氛围环绕在这颗虹蛋四周。",
@@ -4046,7 +4046,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1668,
       },
       {
-        breed: ["Water Dragon", ""],
+        breed: ["Water Dragon", "水龙"],
         egg: [
           "This egg is sitting in a shallow puddle.",
           "这颗蛋位于一个浅浅的水坑中。",
@@ -4069,7 +4069,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 63,
       },
       {
-        breed: ["Water Walker Dragon", ""],
+        breed: ["Water Walker Dragon", "水行龙"],
         egg: [
           "This egg seems to be floating on a puddle.",
           "这颗蛋似乎漂浮在水坑上。",
@@ -4092,7 +4092,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 128,
       },
       {
-        breed: ["Waterhorse Dragon", ""],
+        breed: ["Waterhorse Dragon", "水马龙"],
         egg: ["This egg is slimy and blue.", "这颗蛋又光滑又蓝。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -4112,7 +4112,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 127,
       },
       {
-        breed: ["Whiptail Dragon", ""],
+        breed: ["Whiptail Dragon", "鞭尾龙"],
         egg: [
           "This egg shakes from time to time, as if it is eager to hatch.",
           "这颗蛋不时地摇摆，似乎渴望孵化。",
@@ -4135,9 +4135,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 129,
       },
       {
-        breed: ["White Dragon", ""],
+        breed: ["White Dragon", "白龙"],
         egg: [
-          "This egg has a very clean look; it's completely devoid of dirt and scratches.",
+          "This egg has a very clean look; it’s completely devoid of dirt and scratches.",
           "这颗蛋看起来非常洁净，没有一点污垢和划痕。",
         ],
         rarity: "Unknown",
@@ -4178,7 +4178,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1710,
       },
       {
-        breed: ["Umbra Xenowyrm", ""],
+        breed: ["Umbra Xenowyrm", "塔拉萨异形蛇龙"],
         egg: [
           "Mana courses throughout this glassy egg.",
           "魔力从这玻璃般的蛋散发出来。",
@@ -4235,7 +4235,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Astrapi Xenowyrm", "阿斯忒拉庇异形蛇龙"],
+        breed: ["Astrapi Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4253,7 +4253,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Chrono Xenowyrm", "克罗诺异形蛇龙"],
+        breed: ["Chrono Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4271,7 +4271,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Gaia Xenowyrm", "盖亚异形蛇龙"],
+        breed: ["Gaia Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4307,7 +4307,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Mageia Xenowyrm", "玛杰亚异形蛇龙"],
+        breed: ["Mageia Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4361,7 +4361,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Pyro Xenowyrm", "皮罗异形蛇龙"],
+        breed: ["Pyro Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4399,7 +4399,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1689,
       },
       {
-        breed: ["Thalassa Xenowyrm", "塔拉萨异形蛇龙"],
+        breed: ["Thalassa Xenowyrm", ""],
         egg: ["Mana courses throughout this glassy egg.", ""],
         rarity: "Rare",
         habitats: [],
@@ -4435,7 +4435,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Xol Dragon", ""],
+        breed: ["Xol Dragon", "柯索龙"],
         egg: [
           "This dull egg feels cozily warm.",
           "这颗色彩不鲜明蛋让人感到舒适温和。",
@@ -4458,7 +4458,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1675,
       },
       {
-        breed: ["Yellow-Crowned Dragon", ""],
+        breed: ["Yellow-Crowned Dragon", "黄冠龙"],
         egg: [
           "The air shimmers around this egg, as if from heat.",
           "这颗蛋周遭的空气摇晃扭曲，仿佛蜃气楼。",
@@ -4481,7 +4481,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 103,
       },
       {
-        breed: ["Zyumorph", ""],
+        breed: ["Zyumorph", "赛尔莫夫龙"],
         egg: [
           "This shiny egg seems to radiate power.",
           "这颗闪亮的蛋似乎正放射出能量。",
@@ -4507,7 +4507,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1607,
       },
       {
-        breed: ["Baikala Dragon", ""],
+        breed: ["Baikala Dragon", "贝加尔龙"],
         egg: [
           "This heavy egg has a soft, yielding shell.",
           "这颗沉重的蛋外壳柔软。",
@@ -4530,7 +4530,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1614,
       },
       {
-        breed: ["Bauta Dragon", ""],
+        breed: ["Bauta Dragon", "假面龙"],
         egg: [
           "This egg has raised golden ridges.",
           "这颗蛋上有著金色浮雕般的隆起。",
@@ -4553,7 +4553,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1623,
       },
       {
-        breed: ["Blancblack Dragon", ""],
+        breed: ["Blancblack Dragon", "白黑龙"],
         egg: [
           "This egg is dark with light speckles...or maybe it’s light with dark speckles?",
           "这颗深色的蛋上有浅色斑点……还是浅色蛋上有暗色斑点呢？",
@@ -4579,7 +4579,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1644,
       },
       {
-        breed: ["Ciriax Lindwyrm", ""],
+        breed: ["Ciriax Lindwyrm", "双头鳞龙"],
         egg: [
           "This opalescent egg shimmers in the moonlight.",
           "这种发着乳白色光的蛋在月光下闪闪发光。",
@@ -4622,7 +4622,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 35,
       },
       {
-        breed: ["Geminae Dragon", ""],
+        breed: ["Geminae Dragon", "双子龙"],
         egg: [
           "This shiny egg gives you a headache when you get close.",
           "你靠近这颗发著光的蛋就头痛。",
@@ -4665,7 +4665,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1713,
       },
       {
-        breed: ["Gilded Bloodscale Dragon", ""],
+        breed: ["Gilded Bloodscale Dragon", "镀金血鳞龙"],
         egg: [
           "This egg glitters oddly in the light.",
           "这颗蛋在光下奇异地闪烁。",
@@ -4688,7 +4688,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 10,
       },
       {
-        breed: ["Hooktalon Dragon", ""],
+        breed: ["Hooktalon Dragon", "勾爪龙"],
         egg: [
           "The surface of this egg is rough and sharp.",
           "蛋的表面又粗糙又尖锐。",
@@ -4751,7 +4751,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1694,
       },
       {
-        breed: ["Nexus Dragon", ""],
+        breed: ["Nexus Dragon", "连龙"],
         egg: [
           "This dense, crystalline egg seems dangerously unstable.",
           "这颗高密度、如结晶般的蛋看起来极为不稳定。",
@@ -4794,7 +4794,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1719,
       },
       {
-        breed: ["Split Dragon", ""],
+        breed: ["Split Dragon", "分龙"],
         egg: [
           "This egg is split down the middle into two colors.",
           "这颗蛋从中间分成两个颜色。",
@@ -4880,9 +4880,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 1712,
       },
       {
-        breed: ["Common Pygmy", ""],
+        breed: ["Common Pygmy", "侏儒龙"],
         egg: [
-          "This egg is so tiny you almost didn't see it.",
+          "This egg is so tiny you almost didn’t see it.",
           "这颗蛋太小了以至于你几乎没有看到它。",
         ],
         rarity: "Unknown",
@@ -4929,7 +4929,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1645,
       },
       {
-        breed: ["Crimson Flare Pygmy", ""],
+        breed: ["Crimson Flare Pygmy", "红火侏儒龙"],
         egg: [
           "This egg is tiny and brightly colored.",
           "这颗蛋很小并有明亮的颜色。",
@@ -5070,7 +5070,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1600,
       },
       {
-        breed: ["Magelight Pygmy", ""],
+        breed: ["Magelight Pygmy", "魔光侏儒龙"],
         egg: [
           "This small egg is engulfed in a cool, purple flame.",
           "这枚小蛋被包裹在清凉的紫色火焰中。",
@@ -5096,7 +5096,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1593,
       },
       {
-        breed: ["Mariner Pygmy", ""],
+        breed: ["Mariner Pygmy", "水手侏儒龙"],
         egg: ["This tiny egg smells like the sea.", "这颗小蛋闻起来像是大海。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -5145,7 +5145,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 181,
       },
       {
-        breed: ["Misfit Pygmy", ""],
+        breed: ["Misfit Pygmy", "捣蛋侏儒龙"],
         egg: [
           "This tiny egg has crazy swirls on it.",
           "这颗小蛋上有繁复的漩涡纹。",
@@ -5168,7 +5168,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 85,
       },
       {
-        breed: ["Mistlet Pygmy", ""],
+        breed: ["Mistlet Pygmy", "黑雾侏儒龙"],
         egg: ["This tiny egg is mysterious and dark.", "这颗小蛋神秘而黑暗。"],
         rarity: "Unknown",
         habitats: ["Forest", "Jungle"],
@@ -5188,7 +5188,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 84,
       },
       {
-        breed: ["Nilia Pygmy", ""],
+        breed: ["Nilia Pygmy", "妮莉亚侏儒龙"],
         egg: [
           "This tiny egg is heavier than you expected.",
           "这颗小小的蛋比你预期的要重。",
@@ -5308,7 +5308,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1695,
       },
       {
-        breed: ["Seawyrm Pygmy", ""],
+        breed: ["Seawyrm Pygmy", "侏儒海龙"],
         egg: ["This tiny egg shines like a pearl.", "这颗小蛋有珍珠的光泽。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -5328,7 +5328,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 87,
       },
       {
-        breed: ["Glaucus Drake", ""],
+        breed: ["Glaucus Drake", "海神德雷克"],
         egg: ["This striped egg feels moist.", "这颗条纹蛋感觉很潮湿。"],
         rarity: "Unknown",
         habitats: ["Coast"],
@@ -5400,7 +5400,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1597,
       },
       {
-        breed: ["Howler Drake", ""],
+        breed: ["Howler Drake", "咆啸德雷克"],
         egg: [
           "You hear strange noises coming from inside this egg.",
           "你听到奇怪的声音从这颗蛋里传出。",
@@ -5423,7 +5423,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1042,
       },
       {
-        breed: ["Sunbeam Drake", ""],
+        breed: ["Sunbeam Drake", "夜耀德雷克"],
         egg: [
           "This egg displays the colors of both dawn and dusk.",
           "这颗蛋呈现出昼与夜的颜色。",
@@ -5615,7 +5615,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1622,
       },
       {
-        breed: ["Vremya Drake", ""],
+        breed: ["Vremya Drake", "时间德雷克"],
         egg: [
           "This smooth green egg looks vaguely familiar.",
           "这颗平滑的绿蛋似曾相识。",
@@ -5641,9 +5641,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 1653,
       },
       {
-        breed: ["Diplodocus carnegiiYellow Dino", ""],
+        breed: ["Diplodocus carnegiiYellow Dino", "黄恐龙"],
         egg: [
-          "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much heavier than the other eggs.",
+          "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.",
           "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其他的蛋重很多。",
         ],
         rarity: "Other",
@@ -5664,7 +5664,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 135,
       },
       {
-        breed: ["Cheese Dragon", ""],
+        breed: ["Cheese Dragon", "起司龙"],
         egg: [
           "This egg is soft and smells uncannily like cheese.",
           "这颗蛋是柔软的而且气味与乳酪惊人地相似。",
@@ -5687,7 +5687,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 19,
       },
       {
-        breed: ["Gallus gallus domesticusChicken", ""],
+        breed: ["Gallus gallus domesticusChicken", "鸡"],
         egg: [
           "This egg is much smaller than the others.",
           "这颗蛋比其他的更小。",
@@ -5710,9 +5710,9 @@ class DragonTrainingMagic {
         encyclopedia_id: 20,
       },
       {
-        breed: ["Parasaurolophus cyrtocristatusGreen Dino", ""],
+        breed: ["Parasaurolophus cyrtocristatusGreen Dino", "绿恐龙"],
         egg: [
-          "This egg looks like it doesn't belong; it is brightly colored with white spots.",
+          "This egg looks like it doesn’t belong; it is brightly colored with white spots.",
           "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。",
         ],
         rarity: "Other",
@@ -5733,7 +5733,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 132,
       },
       {
-        breed: ["Paper Dragon", ""],
+        breed: ["Paper Dragon", "纸龙"],
         egg: [
           "This egg is tiny and made out of several pieces of paper folded together.",
           "这颗蛋很小，由几张纸叠在一起。",
@@ -5777,9 +5777,9 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Stegosaurus stenopsRed Dino", ""],
+        breed: ["Stegosaurus stenopsRed Dino", "红恐龙"],
         egg: [
-          "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much warmer than the rest of the eggs.",
+          "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.",
           "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其馀的蛋暖和很多。",
         ],
         rarity: "Other",
@@ -5821,7 +5821,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Valentine Dragon", ""],
+        breed: ["Valentine Dragon", "瓦伦泰龙"],
         egg: [
           "This egg is speckled and very fragile.",
           "这颗附着着斑点的蛋非常脆弱。",
@@ -5844,7 +5844,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 120,
       },
       {
-        breed: ["Sweetling", ""],
+        breed: ["Sweetling", "甜心龙"],
         egg: ["This egg looks delicate and sweet.", "这颗蛋看起来精致而甜美。"],
         rarity: "Holiday",
         habitats: [],
@@ -5862,7 +5862,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Rosebud Dragon", ""],
+        breed: ["Rosebud Dragon", "玫瑰花蕾龙"],
         egg: [
           "This sweet smelling egg is covered by a ribbon.",
           "这颗甜蜜的蛋系着一根丝带。",
@@ -5885,7 +5885,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 122,
       },
       {
-        breed: ["Heartseeker Dragon", ""],
+        breed: ["Heartseeker Dragon", "觅心龙"],
         egg: [
           "This scarlet egg has a faintly sweet aroma.",
           "这深红色的蛋有淡淡的甜香。",
@@ -5908,7 +5908,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 123,
       },
       {
-        breed: ["Arsani Dragon", ""],
+        breed: ["Arsani Dragon", "阿莎妮龙"],
         egg: ["This egg is a deep pink.", "这颗蛋是深粉色的。"],
         rarity: "Holiday",
         habitats: ["Unknown (Limited release)"],
@@ -5928,7 +5928,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 124,
       },
       {
-        breed: ["Radiant Angel Dragon", ""],
+        breed: ["Radiant Angel Dragon", "辉煌天使龙"],
         egg: [
           "This radiant white egg has red and gold swirls on it.",
           "这颗发光的白色蛋上有红色与金色的涡形。",
@@ -5951,7 +5951,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 125,
       },
       {
-        breed: ["Heartstealing Dragon", ""],
+        breed: ["Heartstealing Dragon", "偷心龙"],
         egg: [
           "This egg is so shiny it makes you want to take it.",
           "这颗富有光泽的蛋令你忍不住想要将它据为己有。",
@@ -5974,7 +5974,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1420,
       },
       {
-        breed: ["Mutamore Dragon", ""],
+        breed: ["Mutamore Dragon", "穆塔莫龙"],
         egg: [
           "This lovely egg has rolled off to the side.",
           "这颗可爱的蛋滚到一边去了。",
@@ -5995,7 +5995,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Soulstone Dragon", ""],
+        breed: ["Soulstone Dragon", "灵魂石龙"],
         egg: [
           "This deep purple egg shimmers like a pearl.",
           "这颗深紫色的蛋如珍珠般闪烁著。",
@@ -6018,7 +6018,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1604,
       },
       {
-        breed: ["Floral-Crowned Dragon", ""],
+        breed: ["Floral-Crowned Dragon", "花冠龙"],
         egg: [
           "This egg has a sweet, floral scent.",
           "这颗蛋散发著甜美的花香。",
@@ -6064,7 +6064,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1633,
       },
       {
-        breed: ["Erador Lindwyrm", ""],
+        breed: ["Erador Lindwyrm", "爱拉托麟龙"],
         egg: [
           "This regal egg feels oddly light.",
           "这颗华丽的蛋轻得令人难以置信。",
@@ -6148,7 +6148,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Pumpkin Dragon", ""],
+        breed: ["Pumpkin Dragon", "南瓜龙"],
         egg: [
           "This egg smells like the autumn harvest.",
           "这颗蛋闻起来有丰收的味道。",
@@ -6171,7 +6171,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 52,
       },
       {
-        breed: ["Black Marrow Dragon", ""],
+        breed: ["Black Marrow Dragon", "黑髓龙"],
         egg: [
           "This egg is covered in a dark crust.",
           "这颗蛋被黑暗的外壳覆盖。",
@@ -6194,7 +6194,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 53,
       },
       {
-        breed: ["Shadow Walker", ""],
+        breed: ["Shadow Walker", "影行龙"],
         egg: ["This egg fades into the shadows.", "这颗蛋湮没在阴影中。"],
         rarity: "Holiday",
         habitats: ["Unknown (Limited release)"],
@@ -6214,7 +6214,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 54,
       },
       {
-        breed: ["Cavern Lurker Dragon", ""],
+        breed: ["Cavern Lurker Dragon", "蛰窟龙"],
         egg: [
           "This egg is wedged in a dark corner.",
           "这颗蛋楔在一个黑暗的角落里。",
@@ -6237,7 +6237,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 55,
       },
       {
-        breed: ["Grave Dragon", ""],
+        breed: ["Grave Dragon", "墓穴龙"],
         egg: [
           "This egg appears to have an evil grin.",
           "这颗蛋似乎露出了邪恶的笑容。",
@@ -6260,7 +6260,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 56,
       },
       {
-        breed: ["Desipis Dragon", ""],
+        breed: ["Desipis Dragon", "德西比斯龙"],
         egg: [
           "Being near this egg makes it hard to think clearly.",
           "一靠近这颗蛋就让人思绪紊乱。",
@@ -6283,7 +6283,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1270,
       },
       {
-        breed: ["Caligene Dragon", ""],
+        breed: ["Caligene Dragon", "暗龙"],
         egg: [
           "The pattern on this egg’s shell is unsettling.",
           "这颗蛋上的花纹令人不安…",
@@ -6306,7 +6306,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1583,
       },
       {
-        breed: ["Witchlight Dragon", ""],
+        breed: ["Witchlight Dragon", "魔光龙"],
         egg: [
           "This downy egg is hidden in brambles.",
           "这颗毛茸茸的蛋藏在荆棘里。",
@@ -6352,7 +6352,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1624,
       },
       {
-        breed: ["Arcana Dragon", ""],
+        breed: ["Arcana Dragon", "阿尔克那龙"],
         egg: [
           "This egg has reflective spots that remind you of gems, or eyes.",
           "这蛋上会反光的斑点使你想到了钻石，或眼睛。",
@@ -6375,7 +6375,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1631,
       },
       {
-        breed: ["Kohraki Dragon", ""],
+        breed: ["Kohraki Dragon", "柯拉奇龙"],
         egg: [
           "A fine mist rolls over this cool, scaly egg.",
           "浓密的厚雾包裹著这颗冰冷可怖的蛋。",
@@ -6441,7 +6441,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1707,
       },
       {
-        breed: ["Holiday Dragon (2007)Holly Dragon", ""],
+        breed: ["Holiday Dragon (2007)Holly Dragon", "冬青龙"],
         egg: [
           "This egg has a holly leaf stuck to it.",
           "这颗蛋上卡着一片冬青叶。",
@@ -6464,7 +6464,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 21,
       },
       {
-        breed: ["Holiday Dragon (2008)Yulebuck", ""],
+        breed: ["Holiday Dragon (2008)Yulebuck", "圣诞鹿龙"],
         egg: [
           "This egg is covered with bright, festive stripes.",
           "这颗蛋有着明亮的节日花纹。",
@@ -6487,7 +6487,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 22,
       },
       {
-        breed: ["Holiday Dragon (2009)Snow Angel", ""],
+        breed: ["Holiday Dragon (2009)Snow Angel", "雪天使龙"],
         egg: [
           "This egg fills you with holiday cheer.",
           "这颗蛋使你充满节日的喜乐。",
@@ -6510,7 +6510,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 23,
       },
       {
-        breed: ["Holiday Dragon (2010)Ribbon Dancer", ""],
+        breed: ["Holiday Dragon (2010)Ribbon Dancer", "缎带舞者龙"],
         egg: [
           "This egg shines like a holiday ribbon.",
           "这颗蛋耀眼得像是节日彩带。",
@@ -6533,7 +6533,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 24,
       },
       {
-        breed: ["Holiday Dragon (2011)Blizzard Wizard", ""],
+        breed: ["Holiday Dragon (2011)Blizzard Wizard", "冬贤龙"],
         egg: [
           "This colorful egg is covered by a light layer of snow.",
           "这颗五彩缤纷的蛋被一层薄雪覆盖着。",
@@ -6556,7 +6556,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 25,
       },
       {
-        breed: ["Holiday Dragon (2012)Wrapping-Wing", ""],
+        breed: ["Holiday Dragon (2012)Wrapping-Wing", "彩纸龙"],
         egg: [
           "This egg has a rich, shiny pattern on it.",
           "这颗蛋有个丰富、闪亮的花样。",
@@ -6579,7 +6579,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 26,
       },
       {
-        breed: ["Holiday Dragon (2013)Solstice Dragon", ""],
+        breed: ["Holiday Dragon (2013)Solstice Dragon", "冬至龙"],
         egg: [
           "This egg emits a soft, heartwarming glow.",
           "这颗蛋会发出柔和、温馨的光芒。",
@@ -6602,7 +6602,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 27,
       },
       {
-        breed: ["Mistletoe Dragon", ""],
+        breed: ["Mistletoe Dragon", "榭寄生龙"],
         egg: [
           "This colorful egg gleams in the light.",
           "这颗缤纷的蛋在光芒下闪闪发光。",
@@ -6623,7 +6623,7 @@ class DragonTrainingMagic {
         },
       },
       {
-        breed: ["Holiday Dragon (2015)Aegis Dragon", ""],
+        breed: ["Holiday Dragon (2015)Aegis Dragon", "庇护之龙"],
         egg: [
           "A wintry chill swirls just beneath the surface of this egg.",
           "冰冷的寒气在蛋里旋转。",
@@ -6646,7 +6646,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1584,
       },
       {
-        breed: ["Holiday Dragon (2016)Snow Dragon", ""],
+        breed: ["Holiday Dragon (2016)Snow Dragon", "雪龙"],
         egg: ["This egg is surrounded by frost.", "这颗蛋被冰霜包裹。"],
         rarity: "Holiday",
         habitats: ["Unknown (Limited release)"],
@@ -6666,7 +6666,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1603,
       },
       {
-        breed: ["Holiday Dragon (2017)Garland Dragon", ""],
+        breed: ["Holiday Dragon (2017)Garland Dragon", "花环龙"],
         egg: [
           "This festive egg gives off comforting warmth.",
           "这颗喜庆的蛋带给人舒适的温暖。",
@@ -6689,7 +6689,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1625,
       },
       {
-        breed: ["Holiday Dragon (2018)Starsinger Dragon", ""],
+        breed: ["Holiday Dragon (2018)Starsinger Dragon", "吟星龙"],
         egg: [
           "This egg glows with a soft, soothing light.",
           "这颗蛋上发出抚慰人心的暖光。",
@@ -6712,7 +6712,7 @@ class DragonTrainingMagic {
         encyclopedia_id: 1632,
       },
       {
-        breed: ["Holiday Dragon (2019)Wintertide Dragon", ""],
+        breed: ["Holiday Dragon (2019)Wintertide Dragon", "玄英龙"],
         egg: [
           "This egg emanates a gentle chime when met with the winter breeze.",
           "每当有冬季微风吹拂而过，这颗蛋就会发出轻柔的敲钟声。",

@@ -104,6 +104,8 @@ class DragonTrainingSpellbook extends DragonTrainingMagic {
                   return true;
                 }
                 break;
+              case "number":
+                break;
               default:
                 console.error(typeof dragon[key], dragon[key]);
                 return false;
@@ -407,6 +409,10 @@ const initScript = () => {
       let img = egg_node.querySelector("a > img");
       let desc = egg_node.querySelector("span");
       let dragon = DTS.getByEggDesc(desc.innerText);
+      if (dragon === null) {
+        DTS.log(`从数据库中检索 "${desc.innerText}" 失败`);
+        return;
+      }
       // TODO 替换未知的龙蛋图片 img.src = link.href.replace("get", "image");
       // 渲染龙蛋的种群
       let egg_title_node = document.createElement("div");
@@ -449,6 +455,7 @@ const initScript = () => {
       if (DTS.match(dragon)) {
         egg_node.style.backgroundColor = DTS.COLOR.Expect;
       }
+      img.src = `https://cdn.jsdelivr.net/gh/1ackbfun/dragon-cave-helper@main/sprite/${dragon.sprites.egg[1]}`; // 龙蛋图片/链接 mouseover 信息
       img.title = egg_code; // 龙蛋图片/链接 mouseover 信息
       desc.innerHTML += `<br>${dragon.egg[1]}`; // 翻译龙蛋描述
       DTS.log("检测到龙蛋", egg_code, dragon);
