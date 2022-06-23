@@ -2,7 +2,7 @@
 // @name         Dragon Training Magic
 // @name:zh-CN   驯龙魔法
 // @namespace    3BBBC94E5807338FF2A3A63A253333D049DECC00
-// @version      0.2.0
+// @version      0.2.1
 // @description  Help you to raise your dragon well
 // @author       syd
 // @license      2022 up to now, syd All Rights Reserved
