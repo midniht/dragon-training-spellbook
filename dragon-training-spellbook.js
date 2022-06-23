@@ -2,12 +2,12 @@
 // @name         Dragon Training Spellbook
 // @name:zh-CN   驯龙魔典
 // @namespace    3BBBC94E5807338FF2A3A63A253333D049DECC00
-// @version      0.1.2
+// @version      0.2.0
 // @description  Help you to raise your dragon well
 // @author       syd
 // @license      2022 up to now, syd All Rights Reserved
 // @match        https://dragcave.net/*
-// @resource     IMPORTED_CSS https://pastebin.com/raw/yPkhNWFW
+// @resource     IMPORTED_CSS https://pastebin.com/raw/Bf63ZehX
 // @require      https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
 // @require      https://greasyfork.org/scripts/446851-dragon-training-magic/code/Dragon%20Training%20Magic.js?version=1063341
 // @grant        GM_setValue
@@ -24,6 +24,45 @@ const now = () => {
   return `${t.getFullYear()}-${pad(t.getMonth())}-${pad(t.getDay())} ${pad(
     t.getHours()
   )}:${pad(t.getMinutes())}:${pad(t.getSeconds())}`;
+};
+const similarity = (str1, str2) => {
+  // 判断字符串相似程度
+  const distance = (thanos, rival) => {
+    // Levenshtein 编辑距离算法
+    // 参考 https://github.com/Rabbitzzc/js-string-comparison
+    [thanos, rival] = [thanos, rival].map((argv) => {
+      if (typeof argv === "string") {
+        return argv.replace(/\s+/g, "").toLowerCase();
+      } else {
+        throw new Error("argument should be a string");
+      }
+    });
+    if (thanos === rival) return 0;
+    let [len1, len2] = [thanos.length, rival.length];
+    if (!len1) return len2;
+    if (!len2) return len1;
+    let dynamicArray = [...Array(len1 + 1)].map(() => Array(len2 + 1).fill(0));
+    for (let i = 0; i <= len1; ++i) {
+      dynamicArray[i][0] = i;
+    }
+    for (let j = 0; j <= len2; ++j) {
+      dynamicArray[0][j] = j;
+    }
+    let temp;
+    for (let i = 1; i <= len1; ++i) {
+      for (let j = 1; j <= len2; ++j) {
+        temp = thanos[i - 1] === rival[j - 1] ? 0 : 1;
+        dynamicArray[i][j] = Math.min(
+          dynamicArray[i - 1][j] + 1, // delete
+          dynamicArray[i][j - 1] + 1, // insert
+          dynamicArray[i - 1][j - 1] + temp // replace
+        );
+      }
+    }
+    return dynamicArray[len1][len2];
+  };
+  if (!str1.length && !str2.length) return 1;
+  return 1 - (1.0 * distance(str1, str2)) / Math.max(str1.length, str2.length);
 };
 
 class DragonTrainingSpellbook extends DragonTrainingMagic {
@@ -47,7 +86,6 @@ class DragonTrainingSpellbook extends DragonTrainingMagic {
       typeof dragon === "object" &&
       Object.hasOwnProperty.call(dragon, "egg")
     ) {
-      // TODO 改造为相似度判断来匹配
       for (const key in dragon) {
         if (Object.hasOwnProperty.call(dragon, key)) {
           for (const keyword of this.wishlist) {
@@ -60,7 +98,9 @@ class DragonTrainingSpellbook extends DragonTrainingMagic {
                 }
                 break;
               case "string":
-                if (dragon[key].includes(keyword)) {
+                if (key === "egg" && similarity(dragon[key], keyword) > 0.95) {
+                  return true;
+                } else if (dragon[key].includes(keyword)) {
                   return true;
                 }
                 break;
@@ -202,6 +242,7 @@ const initScript = () => {
         if (Username === undefined) {
           window.location.href = "/login";
         } else {
+          GM.setClipboard(Username);
           DTS.log(`已登录成功 当前用户为 ${Username}`);
         }
       },
@@ -351,8 +392,14 @@ const initScript = () => {
     DTS.WIKI
   }/zh/wiki/%E9%BE%8D%E8%9B%8B%E7%A8%AE%E9%A1%9E" target="_blank">中文龙蛋清单（有缺漏）</a><br><br>
 孵化场<br>
+<a class="egg-hatch" href="https://www.allureofnds.net/daycare" target="_blank">Allure of ND</a><br>
 <a href="https://dc.evinext.com/" target="_blank">DragHatch</a></div>`;
   right_card_node.append(right_card);
+  right_card.onclick = (event) => {
+    if (event.target.className == "egg-hatch") {
+      GM.setClipboard(Username);
+    }
+  };
 
   if (Path.indexOf("/locations/") === 0) {
     document.querySelectorAll(".eggs > div").forEach((egg_node) => {
@@ -368,7 +415,7 @@ const initScript = () => {
       egg_node.insertBefore(egg_title_node, link);
       // 添加英文名
       let egg_breed_en = document.createElement("a");
-      egg_breed_en.href = `${DTS.WIKI}${dragon.wiki_path[0]}`;
+      egg_breed_en.href = `${DTS.WIKI}${dragon.wiki[0]}`;
       egg_breed_en.target = "_blank";
       egg_breed_en.innerHTML = `<b>${dragon.breed[0]}</b>`;
       //egg_breed_en.style.color = DTS.COLOR[dragon.rarity]; // 另一种高亮方案 染色文本 可以考虑加阴影
@@ -379,10 +426,10 @@ const initScript = () => {
       if (dragon.breed[1] !== "") {
         let egg_breed_zh = document.createElement("a");
         egg_breed_zh.style.marginRight = "1rem";
-        if (dragon.wiki_path[1] === "") {
+        if (dragon.wiki[1] === "") {
           egg_breed_zh.setAttribute("class", "no-href"); // 只有中文名 没有对应的中文 wiki 条目
         } else {
-          egg_breed_zh.href = `${DTS.WIKI}${dragon.wiki_path[1]}`; // 有中文 wiki 条目
+          egg_breed_zh.href = `${DTS.WIKI}${dragon.wiki[1]}`; // 有中文 wiki 条目
           egg_breed_zh.target = "_blank";
         }
         egg_breed_zh.innerHTML = `${dragon.breed[1]}`;
@@ -415,7 +462,7 @@ const initScript = () => {
           "This crystalline egg almost looks like you could reach into its depths.",
           "这颗结晶化的蛋似是能让你看透其内侧。",
         ],
-        wiki_path: ["/wiki/Egg/Identification_guide", ""],
+        wiki: ["/wiki/Egg/Identification_guide", ""],
         rarity: "Normal",
         habitat: ["Alpine"],
         bsa: "种族特性技能",
@@ -432,7 +479,7 @@ const initScript = () => {
       // 渲染龙蛋的种群
       // 添加英文名
       let egg_breed_en = document.createElement("a");
-      egg_breed_en.href = `${DTS.WIKI}${dragon.wiki_path[0]}`;
+      egg_breed_en.href = `${DTS.WIKI}${dragon.wiki[0]}`;
       egg_breed_en.target = "_blank";
       egg_breed_en.innerHTML = `<b>${dragon.breed[0]}</b>`;
       egg_breed_en.style.backgroundColor = DTS.COLOR[dragon.rarity]; // 稀有度高亮显示
@@ -448,10 +495,10 @@ const initScript = () => {
       )}`;
       if (dragon.breed[1] !== "") {
         let egg_breed_zh = document.createElement("a");
-        if (dragon.wiki_path[1] === "") {
+        if (dragon.wiki[1] === "") {
           egg_breed_zh.setAttribute("class", "no-href"); // 只有中文名 没有对应的中文 wiki 条目
         } else {
-          egg_breed_zh.href = `${DTS.WIKI}${dragon.wiki_path[1]}`; // 有中文 wiki 条目
+          egg_breed_zh.href = `${DTS.WIKI}${dragon.wiki[1]}`; // 有中文 wiki 条目
           egg_breed_zh.target = "_blank";
         }
         egg_breed_zh.innerHTML = `${dragon.breed[1]}`;
@@ -463,7 +510,7 @@ const initScript = () => {
       // 获取龙蛋代码
       const egg_code = link.href
         .replace("https://dragcave.net/abandoned/", "")
-        .replace("/", "");
+        .replace(/\/$/g, "");
       let egg_code_node = document.createElement("a");
       egg_code_node.href = link.href.replace("get", "view");
       egg_code_node.target = "_blank";
